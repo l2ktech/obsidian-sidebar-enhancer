@@ -1,5 +1,22 @@
 # Obsidian 侧边栏增强插件 (Sidebar Enhancer)
 
+## Public Portfolio Summary
+
+This repository is a public Obsidian plugin/tooling support project. It demonstrates a small productivity plugin that improves sidebar readability through label display, custom button names, width controls, command-palette actions, and settings import/export.
+
+For interviews, use it as supporting evidence for product-minded tooling work: identifying a personal workflow pain point, packaging it as an Obsidian plugin, documenting install paths, and maintaining a user-facing settings surface.
+
+## Evidence Entry Points
+
+- [`manifest.json`](manifest.json): Obsidian plugin metadata.
+- [`main.js`](main.js): plugin behavior and command integration.
+- [`styles.css`](styles.css): sidebar layout and visual adjustments.
+- [`screenshots`](screenshots): public UI evidence for settings and behavior.
+
+## Public Boundary
+
+This repository should not include private vault content, note titles, workspace screenshots with personal data, synced vault configuration, plugin tokens, or unpublished writing material. Keep screenshots and examples sanitized and focused on plugin behavior.
+
 ![Obsidian侧边栏增强插件](https://img.shields.io/github/v/release/q442333521/obsidian-sidebar-enhancer?style=for-the-badge)
 ![Obsidian下载量](https://img.shields.io/badge/动态-GitHub-blue?style=for-the-badge)
 ![协议](https://img.shields.io/github/license/q442333521/obsidian-sidebar-enhancer?style=for-the-badge)
